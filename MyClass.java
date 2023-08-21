@@ -27,15 +27,14 @@ class MyClass {
 <<<<<<< HEAD
 >>>>>>> d3489891dc6b43d56fcc94286bb8e104f2793c13
     }
-    void animals(string animal){
-    System.out.println("The given animal is "+animal);
-  }
-    void birds(string bird){
-        System.out.println("The given bird is "+bird);
-=======
-
->>>>>>> d74e6b7727805b1f9d337b7bbe2dc93c691954b3
+   // void animals(string animal){
+    //System.out.println("The given animal is "+animal);
+  //}
+    void vehicles(String vehicle){
+     System.out.println("The given vehicle is "+vehicles);
     }
+    void birds(string bird){
+        System.out.println("The given bird is "+bird);}
 
      void AreaRect(int l,int b)
     {
