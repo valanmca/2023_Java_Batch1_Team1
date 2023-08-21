@@ -34,7 +34,7 @@ class MyClass {
      System.out.println("The given vehicle is "+vehicles);
     }
     void birds(string bird){
-        System.out.println("The given bird is "+bird);}
+        System.out.println("The given bird is a "+bird);}
 
      void AreaRect(int l,int b)
     {
