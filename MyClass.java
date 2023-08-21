@@ -1,9 +1,14 @@
 class MyClass {
+    void addition (int a,int b)
+    {
+        int c=a+b;
+        System.out.println(c);
+    }
 
-    void add(int a,intb)
+    /*void add(int a,intb)
     {
         System.out.println(a+b);
-    }
+    }*/
     void sub(int a,intb)
     {
         System.out.println(a-b);
