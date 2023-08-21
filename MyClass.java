@@ -35,10 +35,12 @@ class MyClass {
    // void animals(string animal){
     //System.out.println("The given animal is "+animal);
   //}
-    void vehicles(String vehicle){
+    void vehicles(String vehicle)
+    {
      System.out.println("The given vehicle is "+vehicles);
     }
-    void birds(string bird){
+    void birds(string bird)
+    {
         System.out.println("The given bird is a "+bird);}
 
      void AreaRect(int l,int b)
