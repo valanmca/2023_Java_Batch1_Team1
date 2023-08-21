@@ -9,5 +9,13 @@ class MyClass {
         System.out.println(a-b);
     }
 
+    void AreaRect(int l,int b)
+    {
+        System.out.println("Area : "+(l*b));
+    }
+    void PeriRect(int l,int b)
+    {
+        System.out.println("Perimeter"+(a-b));
+    }
 
 }
