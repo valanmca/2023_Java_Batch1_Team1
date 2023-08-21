@@ -70,10 +70,10 @@ class MyClass {
     {
         System.out.println("The given bird is a "+bird);}
 
-     void AreaRect(int l,int b)
-    {
-        System.out.println("Area : "+(l*b));
-    }
+    //  void AreaRect(int l,int b)
+    // {
+    //     System.out.println("Area : "+(l*b));
+    // }
     void PeriRect(int l,int b)
     {
         System.out.println("Perimeter"+(a-b));
