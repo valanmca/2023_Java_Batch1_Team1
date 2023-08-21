@@ -13,6 +13,10 @@ class MyClass {
 =======
 =======
 >>>>>>> d74e6b7727805b1f9d337b7bbe2dc93c691954b3
+    void areasquare(int s)
+    {
+        System.out.println(s*s);
+    }
     void mul(int a,int b)
     {
         System.out.println(a*b);
